@@ -3,3 +3,4 @@
 * OCR
 * Open CV
 * Object Detection
+* NLP
